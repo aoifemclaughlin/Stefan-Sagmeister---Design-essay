@@ -1,1 +1,1 @@
-# Stefan-Sagmeister---Design-essay
+[Stefan-Sagmeister – Design Essay](https://aoifemclaughlin.github.io/Stefan-Sagmeister---Design-essay/)
