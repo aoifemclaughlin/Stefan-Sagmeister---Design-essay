@@ -1,0 +1,108 @@
+/* -------- CSS RESET --------*/
+
+* {
+    padding: 0;
+    margin: 0;
+    font-size:100%;
+    line-height: 1em;
+}
+
+body {
+        width: 75%;
+        max-width: 700px;
+        font-family: 'Georgia', 'Times', 'Times New Romas', Serif;
+        margin: auto;
+        font-size: 125%;
+        background-color: #FFF9F5;
+        background-image: 
+        color: #333;
+        line-height: 1.8;
+     } 
+/*-------------- TYPOGRAPHY ----------------*/
+
+h1, h2, h3 {
+    font-weight: normal;
+    color: #F4776B;
+    text-align: center;}
+
+p, li {
+    margin-bottom: 2em;
+    line-height: 1.5;}
+
+h1 {
+    font-size: 4em;
+    margin-top: 1em;
+    margin-bottom: .1em;}
+
+h2 {
+    font-size: 2.25em;
+    margin-top: .1em;
+    margin-bottom: 1em;}
+
+
+header h2 { 
+    font-style: italic;
+    font-size: 1.8em;
+    margin-top: -0.1em;
+    color: #333;}
+
+hgroup{
+    margin-bottom: 3em;}
+
+.intro {
+    font-size: 1.25em;
+    line-height: 1.5em}
+
+blockquote{
+    padding: 1em 0 2em 1em;
+    font-size: 1.75em;
+    line-height: 1.4em;
+    margin: 0;}
+
+blockquote cite {
+    font-size: .75em}
+
+blockquote p {
+    color: #777;
+    hanging-punctuation: first;
+    text-indent: -0.5em;}
+
+.anchor {
+    text-transform: uppercase;
+    font-size: .75em;}
+
+.leader {
+    text-transform: uppercase}
+
+
+/*----------- NAV -----------*/
+
+nav {
+    padding: 1em 0;
+    border-top: 22px solid #333;
+    border-bottom: 1px solid #333;
+    margin-bottom: 4em;}
+
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;}
+
+nav ul li {
+    color: #F4776B;
+    display: inline;
+    margin: 20px;}
+
+nav a {color: #F4776B;}
+
+nav a:hover {
+    border-bottom: none;}
+
+.background {
+    background: url(../images/fern-image.png) top repeat;
+}
+
+.banner {
+    background: url(../images/sagmeister-image.png) top no-repeat;
+    margin-top: 0em;
+}
